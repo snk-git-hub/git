@@ -1,0 +1,83 @@
+✏️ **Notes:**
+
+**basic command lines command** 
+
+cd → Move around directories (cd .. to go back)
+
+mkdir → Create directory
+
+touch → Create file or modify its timestamp
+
+ls → View file list
+
+rm → Remove file or directory
+
+rmdir → Remove empty directory
+
+set-location → Change to a specific directory location
+
+GIT COMMAND 
+
+git init → initialize the repository 
+
+git status  → list all untacked files 
+
+git add→ to add to repository 
+
+git commit →
+
+git clone → to clone 
+
+git branch  <branch-name>
+
+git branch → see the branches 
+
+git branch -D <branch name> → to delete the branch
+
+ 
+
+git commit -m "second"
+
+git log 
+
+git revert 
+
+git diff
+
+**DOCKER**
+
+docker —version    
+
+docker pull ubuntu
+
+docker image 
+
+docker image ls
+
+docker run -it -d ubuntu
+
+docker stop 
+
+docker ps 
+
+docker exec -it  <condainer id> bash
+
+exit
+
+docker rm 9cce16acade1 
+
+docker  commit
+
+docker rm -f $ (docker ps -a -q)
+
+service apache2 start
+
+service apache2 status
+
+docker run -it -d snk333/apache
+
+docker run -it -p 82:80 -d snk333/apache
+
+docker exec -it a45e28cf8031 bash
+
+</aside>
