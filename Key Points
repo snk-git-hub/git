@@ -1,0 +1,13 @@
+<aside>
+💡 Key Points:
+
+Based on the Git workflow, the typical stages for file tracking are:
+
+- Untracked → Staging → Tracked
+
+This progression represents how Git manages files:
+
+- Untracked: New files that Git doesn't yet track
+- Staging: Files added to the staging area with 'git add', ready to be committed
+- Tracked: Files that have been committed and are now tracked by Git
+</aside>
