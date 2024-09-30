@@ -1,0 +1,37 @@
+**DOCKER**
+
+docker —version    
+
+docker pull ubuntu
+
+docker image 
+
+docker image ls
+
+docker run -it -d ubuntu
+
+docker stop 
+
+docker ps 
+
+docker exec -it  <condainer id> bash
+
+exit
+
+docker rm 9cce16acade1 
+
+docker  commit
+
+docker rm -f $ (docker ps -a -q)
+
+service apache2 start
+
+service apache2 status
+
+docker run -it -d snk333/apache
+
+docker run -it -p 82:80 -d snk333/apache
+
+docker exec -it a45e28cf8031 bash
+
+</aside>
